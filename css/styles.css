@@ -1,0 +1,64 @@
+.header{
+    position: fixed;
+    width: 100%;
+    height: 760px;
+    background: url(../assets/solar.jpg) no-repeat center top;
+    background-size: cover;
+}
+
+img{
+    background-size: cover;
+}
+ .login{
+     text-align: center;
+ }
+
+.box{
+    opacity: 70%;
+    border: 1px solid black;
+    position: relative;
+    left: 1000px;
+    top: 200px;
+    width: 300px;
+    height:320px;
+}
+
+.button{
+    text-align: center;
+}
+.sign{
+    text-align: center;
+}
+
+.plan{
+    position: relative;
+    top: 250px;
+    right: 300px;
+    text-align: center;
+}
+
+.bx2{
+
+    opacity: 70%;
+    border: 1px solid black;
+    position: relative;
+    left:430px;
+    top: 150px;
+    width:700px;
+    height: 420px;
+
+}
+
+.planet{
+    opacity: 80%;
+    position: absolute;
+    width: 500px;
+    height: 700px;
+    top: 30px;
+    left: 200px;
+}
+
+.btn{
+    position: relative;
+    align-items: center;
+}
